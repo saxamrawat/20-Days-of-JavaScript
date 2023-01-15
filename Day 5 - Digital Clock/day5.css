@@ -1,0 +1,24 @@
+body {
+    background: black;
+}
+
+.title {
+    position: absolute;
+    top: 35%;
+    left: 17.5%;
+    color: #03a062;
+    font-size: 40px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 7px;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #03a062;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 7px;
+}
