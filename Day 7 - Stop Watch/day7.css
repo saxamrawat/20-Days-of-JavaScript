@@ -1,0 +1,23 @@
+body{
+    color: #03a062;
+    background-color: black;
+}
+
+.wrapper{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 15%;
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+    border: solid 3px black;
+}
+
+p{
+    margin-left: 110px;
+    margin-bottom: 30px;
+}
+
+.but-wrap{
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
