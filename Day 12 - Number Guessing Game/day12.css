@@ -1,0 +1,21 @@
+body{
+    margin-left: 35vw;
+    margin-top: 25vh;
+    background-color:black;
+    color: #03a062;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#subt{
+    background-color: black;
+    color: #03a062;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+p{
+    margin-top: 25px;
+}
